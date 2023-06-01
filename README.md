@@ -5,8 +5,11 @@ Developed during Introduction to Software Engineering II course. They gave a tem
 We implemented the TODO's (routes for creating, editing an order, middlewares, controllers for creating, editing and posting orders
 
 ### FrontEnd
+Implemented:
    * RestaurantScreen: restaurants listing and top 3 products
    *  RestaurantDetailScreen: add, edit and remove products to an order.
    *  OrderConfirmationScreen: order overview and confirm order.
    *  OrdersScreen: listing, editing and removing current orders.
    *  EditOrderScreen: edit and order using a Formik.
+
+The rest of the files were given by our professors.
